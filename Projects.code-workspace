@@ -4,8 +4,8 @@
 			"path": "."
 		},
 		{
-			"name": "ESP32_LED_BLINK",
-			"path": "ESP32_LED_BLINK"
+			"name": "ARDUINO_UNO_TEMPERATURE_DHT11",
+			"path": "ARDUINO_UNO_TEMPERATURE_DHT11"
 		}
 	],
 	"settings": {}
