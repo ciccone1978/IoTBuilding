@@ -3,3 +3,6 @@
 
 #ignore .vscode
 /.vscode/
+
+#managed components
+/managed_components/
